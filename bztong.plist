@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://xxx/xxx.ipa</string>
+                    <string>http://boxedfile.duapp.com/app/bztong/bztong.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.fnst.smartwork</string>
+                <string>bztong.william.yu</string>
                 <key>bundle-version</key>
-                <string>1.0</string>
+                <string>0.90</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>xxx.ipa</string>
+                <string>宝桢通</string>
             </dict>
         </dict>
     </array>
