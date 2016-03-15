@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://boxedfile.duapp.com/app/bztong/bztong1_0.ipa</string>
+                    <string>http://boxedfile.duapp.com/app/emice/emice.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>bztong.william.yu</string>
+                <string>cn.trueit.emice</string>
                 <key>bundle-version</key>
                 <string>0.90</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>宝桢通</string>
+                <string>emice</string>
             </dict>
         </dict>
     </array>
