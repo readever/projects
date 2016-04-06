@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://boxedfile.duapp.com/app/myvote/myvote.ipa</string>
+                    <string>http://115.29.250.219:88/myvote.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
